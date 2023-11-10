@@ -1,0 +1,7 @@
+dependencies {
+    implementation project(':model')
+
+    implementation 'com.google.code.gson:gson:2.7'
+    implementation 'org.mongodb:mongodb-driver-sync:4.4.2'
+    implementation 'org.mongodb:mongodb-driver:3.6.3'
+}
